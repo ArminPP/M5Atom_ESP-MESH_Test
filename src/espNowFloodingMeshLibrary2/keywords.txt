@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For WiFi101OTA
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+espNowFloodingMesh_begin	KEYWORD2
+espNowFloodingMesh_setChannel	KEYWORD2
+espNowFloodingMesh_setToMasterRole	KEYWORD2
+espNowFloodingMesh_RecvCB	KEYWORD2
+espNowFloodingMesh_send	KEYWORD2
+espNowFloodingMesh_secredkey	KEYWORD2
+espNowFloodingMesh_requestInstantTimeSyncFromMaster	KEYWORD2
+espNowFloodingMesh_isSyncedWithMaster	KEYWORD2
+espNowFloodingMesh_loop	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
